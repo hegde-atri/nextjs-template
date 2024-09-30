@@ -9,5 +9,6 @@ Here's whats included out of the box.
 - SEO template using Next.Metadata
 - Sitemap generation using Next
 - robots.txt generation using Next
+- global website config at `@/website.config.ts`.
 
 Make sure to DM Atri or Bogdan for any issues with starting out.
