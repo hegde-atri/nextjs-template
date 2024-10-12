@@ -5,6 +5,12 @@ export const config = {
         author: "LiteSite",
         keywords: [],
         url: "https://litesite.uk",
+        image: {
+            url: "",
+            width: "",
+            height: "",
+            alt: "",
+        }
     }
 };
 
